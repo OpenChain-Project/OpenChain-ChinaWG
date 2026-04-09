@@ -1,2 +1,2 @@
 # OpenChain-ChinaWG
-这个 OpenChain China 工作组主要面向中国地区。它的目标是帮助所有在中国供应链中使用开源软件的公司实现开源合规。此外，这个工作组的更大目标是创建一个大家聚集、分享和讨论的空间，让所有人都能共享信息。所有内容都用中文呈现，方便整个中国的开源社区学习开源知识. 
+This OpenChain China Workgroup is primarily focused on the region of China. The purpose of this Workgroup is to create a space for gathering, learning and sharing open source subject which including, but not limited to compliance.  
