@@ -7,3 +7,6 @@ This OpenChain China Workgroup is primarily focused on the region of China. The 
 <div style="text-align: center;">
   <img width="251" height="150" alt="Screenshot 2026-04-09 at 20 25 20" src="https://github.com/user-attachments/assets/a32ee0ba-d5cf-41da-a249-3af19560b65c" />
 </div>
+
+
+* [工作组每月例会](./monthly-meeting/)
