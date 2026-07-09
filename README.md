@@ -7,4 +7,6 @@ This OpenChain China Workgroup is primarily focused on the region of China. The 
 <div style="text-align: center;">
   <img width="251" height="150" alt="Screenshot 2026-04-09 at 20 25 20" src="https://github.com/user-attachments/assets/a32ee0ba-d5cf-41da-a249-3af19560b65c" />
 </div>
-
+License 
+The source code is licensed under the Apache License 2.0. The documentation is licensed under CC0, unless otherwise noted/specified.
+除特定文件另有声明外，项目代码的授权协议为 Apache License 2.0，所有文档及相关资料默认采用 CC0 协议授权。
